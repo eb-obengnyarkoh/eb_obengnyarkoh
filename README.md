@@ -1,6 +1,7 @@
 # Ebenezer Obeng-Nyarkoh
-Data Science and Analytics Leader with extensive experience transforming complex data into actionable business insights and strategic decisions.
+Data Science and Analytics Leader with extensive experience leveraging data, analytics, and AI to drive strategic decision-making and measurable business outcomes
 
+# Skills/Tools
 - Analytics and Data Science
 - Machine Learning and Predictive Modeling
 - Business Intelligence and Data Visualization
@@ -9,10 +10,12 @@ Data Science and Analytics Leader with extensive experience transforming complex
 
 I build data-driven solutions that help organizations improve performance, optimize operations, manage risk, and make better decisions.
 
-## Featured Areas
-- Healthcare Analytics
-- Procurement and Spend Analytics
-- Customer and Survey Analytics
-- Predictive Modeling
-- Databricks and Delta Lake
+# Featured Areas
+- Banking, Financial Services, and Insurance (BFSI) Analytics
+- Healthcare and Public Health Analytics
+- Procurement and Spend Intelligence
+- Customer Experience and Survey Analytics
+- Predictive Modeling and Forecasting
+- Risk Analytics and Decision Support
 - Business Intelligence Dashboards
+- Databricks and Modern Data Platforms
