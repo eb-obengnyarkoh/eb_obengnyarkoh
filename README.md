@@ -2,9 +2,12 @@
 Data Science and Analytics Leader with extensive experience leveraging data, analytics, and AI to drive strategic decision-making and measurable business outcomes
 
 # Connect With ME
-- Portfolio: https://github.com/eb-obengnyarkoh/procurement-spend-analytics
-- Linkedin: https://www.linkedin.com/in/eb-obeng-nyarkoh/
+- Portfolio: procurement-spend-analytics
+- Linkedin: Eb Obeng-Nyarkoh
 - Email: brodac7@hotmail.com
+
+- <img width="4032" height="1853" alt="image" src="https://github.com/user-attachments/assets/ba0d8516-f2ef-46ba-ad2a-8f9138dc4b16" />
+
 
 
 # Skills/Tools
