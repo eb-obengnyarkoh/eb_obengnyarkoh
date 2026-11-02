@@ -3,7 +3,7 @@ Data Science and Analytics Leader with extensive experience leveraging data, ana
 
 # Connect With ME
 
-- 📁 Portfolio: [Central Portfolio Repository](https://github.com/eb-obengnyarkoh/procurement-spend-analytics)
+- 📁 Portfolio: [Selected Portfolio](https://github.com/eb-obengnyarkoh/data-analytics)
 
 - 💼 Linkedin: [Eb Obeng-Nyarkoh](https://www.linkedin.com/in/eb-obeng-nyarkoh/)
 
