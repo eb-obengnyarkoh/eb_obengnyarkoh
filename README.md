@@ -15,7 +15,7 @@ Data Science and Analytics Leader with extensive experience leveraging data, ana
 - Machine Learning and Predictive Modeling
 - Business Intelligence and Data Visualization
 - Forecasting, Risk Analytics and Decision Support
-- R, SQL, MS Excel, MS Access, Tableau
+- R, R Shiny, SQL, MS Excel, MS Access, Tableau
 
 I build data-driven solutions that help organizations improve performance, optimize operations, manage risk, and make better decisions.
 
