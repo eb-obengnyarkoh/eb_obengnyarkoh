@@ -6,8 +6,7 @@ Data Science and Analytics Leader with extensive experience leveraging data, ana
 - Linkedin: Eb Obeng-Nyarkoh
 - Email: brodac7@hotmail.com
 
-- <img width="4032" height="1853" alt="image" src="https://github.com/user-attachments/assets/ba0d8516-f2ef-46ba-ad2a-8f9138dc4b16" />
-
+<img width="3744" height="2268" alt="image" src="https://github.com/user-attachments/assets/dea6d6df-02eb-4d16-b484-a581a6ba82a8" />
 
 
 # Skills/Tools
