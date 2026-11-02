@@ -1,7 +1,10 @@
 # Ebenezer Obeng-Nyarkoh
 Data Science and Analytics Leader with extensive experience leveraging data, analytics, and AI to drive strategic decision-making and measurable business outcomes
 
-<img width="4032" height="1088" alt="image" src="https://github.com/user-attachments/assets/c24b1b8e-41cc-4232-8712-65560653f759" />
+# Connect With ME
+- Portfolio: https://github.com/eb-obengnyarkoh/procurement-spend-analytics
+- Linkedin: https://www.linkedin.com/in/eb-obeng-nyarkoh/
+- Email: brodac7@hotmail.com
 
 
 # Skills/Tools
