@@ -1,6 +1,9 @@
 # Ebenezer Obeng-Nyarkoh
 Data Science and Analytics Leader with extensive experience leveraging data, analytics, and AI to drive strategic decision-making and measurable business outcomes
 
+<img width="4032" height="2099" alt="image" src="https://github.com/user-attachments/assets/677aff68-93c5-4cb2-aa26-c6b0d15be45a" />
+
+
 # Skills/Tools
 - Analytics and Data Science
 - Machine Learning and Predictive Modeling
